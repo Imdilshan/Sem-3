@@ -14,8 +14,8 @@ This repo contains my solutions to **ADSA** (Advanced Data Structures & Algorith
 
 ## 📂 Repository Structure  
 - **ADSA/** → Codes related to **Advanced Data Structures & Algorithms** (Semester 3 coursework + practice).
-- **Python/HackerRank/** → Python problem solutions from **HackerRank**.
-- **Python/LeetCode/** → Python problem solutions from **LeetCode**.
+- **Python/UnitX/HackerRank/** → Python problem solutions from **HackerRank**.
+- **Python/UnitX/LeetCode/** → Python problem solutions from **LeetCode**.
 
 ---
 
