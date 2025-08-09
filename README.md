@@ -5,8 +5,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Imdilshan/Sem-3)
 ![GitHub language count](https://img.shields.io/github/languages/count/Imdilshan/Sem-3)
 ![Top language](https://img.shields.io/github/languages/top/Imdilshan/Sem-3)
-![License](https://img.shields.io/github/license/Imdilshan/Sem-3)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Welcome to my **Semester 3** repository! 🎯  
 This repo contains my solutions to **ADSA** (Advanced Data Structures & Algorithms) assignments, practice problems, and **Python** challenges solved from **HackerRank** and **LeetCode**.  
