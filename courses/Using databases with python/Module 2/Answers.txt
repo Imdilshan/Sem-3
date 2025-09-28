@@ -1,0 +1,44 @@
+// Single-Table SQL
+
+1.  Structured Query Language (SQL) is used to (check all that apply)
+    - (o) Delete data
+    - (o) Create a table
+    - (o) Insert data
+
+2.  Which of these is the right syntax to make a new table?
+    - (o) CREATE TABLE people;
+
+3.  Which SQL command is used to insert a new row into a table?
+    - (o) INSERT INTO
+
+4.  Which command is used to retrieve all records from a table?
+    * (o) SELECT * FROM Users
+
+5.  Which keyword will cause the results of the query to be displayed in sorted order?
+    * (o) ORDER BY
+
+6.  In database terminology, another word for table is
+    * (o) relation
+
+7.  In a typical online production environment, who has direct access to the production database?
+    * (o) Database Administrator
+
+8.  Which of the following is the database software used in this class?
+    * (o) SQLite
+
+9.  What happens if a DELETE command is run on a table without a WHERE clause?
+    * (o) All the rows in the table are deleted
+
+10. Which of the following commands would update a column named "name" in a table named "Users"?
+    * (o) UPDATE Users SET name='new name' WHERE ...
+
+11. What does this SQL command do?
+
+    ```sql
+    1   SELECT COUNT(*) FROM Users
+    ```
+
+    Hint: This is not from the lecture
+
+    * (o) It counts the rows in the table Users
+
