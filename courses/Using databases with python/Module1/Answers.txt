@@ -1,0 +1,69 @@
+// Using Encoded Data in Python 3
+
+Q -> What is the most common Unicode encoding when moving data between systems?
+Ans ->  UTF-8
+
+Q -> What is the decimal (Base-10) numeric value for the upper case letter "G" in the ASCII character set?
+Ans ->  71
+  
+Q -> What word does the following sequence of numbers represent in ASCII:
+108, 105, 115, 116
+Ans ->  list
+
+Q -> How are strings stored internally in Python 3?
+Ans ->  Unicode
+
+Q -> When reading data across the network (i.e. from a URL) in Python 3, what method must be used to convert it to the internal format used by strings?
+Ans ->  decode()
+
+
+// Object Oriented Programming
+
+Q -> Which came first, the instance or the class?
+Ans ->  Class
+
+Q -> In Object Oriented Programming, what is another name for the "attributes" of an object?
+Ans ->  fields
+
+Q -> At the moment of creation of a new object, Python looks at the _________ definition to define the structure and capabilities of the newly created object.
+Ans ->  Class
+
+Q -> Which of the following is NOT a good synonym for "class" in Python?
+Ans ->  Direction
+
+Q -> What does this Python statement do if PartyAnimal is a class?
+    zap = PartyAnimal()
+Ans ->  Use the PartyAnimal template to make a new object and assign it to zap
+
+Q -> What is the syntax to look up the fullname attribute in an object stored in the variable colleen?
+Ans ->  colleen.fullname
+
+Q -> Which of these statements is used to indicate that class A will inherit all the features of class B?
+Ans ->  classA(B);
+
+Q -> What keyword is used to indicate the start of a method in a Python class?
+Ans ->  def
+
+Q -> What is "self" typically used for in a Python method within a class?
+Ans ->  To refer to the instance in which the method is being called
+
+Q -> What does the Python dir() function show when we pass an object into it as a parameter?
+Ans ->  It shows the methods and attributes of the object
+
+Q -> Which of the following is rarely used in Object Oriented Programming?
+Ans ->  Destructor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
